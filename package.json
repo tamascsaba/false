@@ -1,0 +1,23 @@
+{
+  "name": "false",
+  "version": "0.0.0",
+  "description": "Node module which return false",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamascsaba/false.git"
+  },
+  "keywords": [
+    "false",
+    "fun"
+  ],
+  "author": "Csaba Tamas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamascsaba/false/issues"
+  },
+  "homepage": "https://github.com/tamascsaba/false#readme"
+}

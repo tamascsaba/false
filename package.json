@@ -1,5 +1,5 @@
 {
-  "name": "false",
+  "name": "return-false",
   "version": "0.0.0",
   "description": "Node module which return false",
   "main": "index.js",
